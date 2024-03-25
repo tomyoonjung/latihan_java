@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Asus
+ * @author Tomi
  */
 public class OptPemberiNilai {
     public static void main(String[] args){
