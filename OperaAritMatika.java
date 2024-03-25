@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Asus
+ * @author Tomi
  */
 public class OperaAritMatika {
 
