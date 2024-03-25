@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Asus
+ * @author Tomi
  */
 public class SepedaGunungBeraksi {
     public static void main(String[] args){
