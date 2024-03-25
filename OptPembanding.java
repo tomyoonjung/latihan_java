@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Asus
+ * @author Tomi
  */
 public class OptPembanding {
     public static void main(String[] args)
