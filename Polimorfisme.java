@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Asus
+ * @author Tomi
  */
     class hewan {
         public void suara(){
